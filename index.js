@@ -3,9 +3,9 @@ const express = require("express");
 
 // ─── CONFIG ────────────────────────────────────────────────────────────────
 const config = {
-  DISCORD_TOKEN: "YOUR_BOT_TOKEN_HERE",
-  CHANNEL_ID: "YOUR_CHANNEL_ID_HERE",
-  WEBHOOK_SECRET: "YOUR_SECRET_KEY_HERE", // same value used in Roblox script
+  DISCORD_TOKEN: "MTUwODc4NTg0NjYwMDQ3MDY0OA.G5CUJw.pwMAmBT1rpXBvxUl7W9J_ZA1Xl1Aw2R069ebcY",
+  CHANNEL_ID: "1508798218492969041",
+  WEBHOOK_SECRET: "cenciu", // same value used in Roblox script
   PORT: 3000,
 };
 // ───────────────────────────────────────────────────────────────────────────
